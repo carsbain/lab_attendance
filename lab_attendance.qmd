@@ -1,0 +1,8 @@
+---
+title: "lab_attendance"
+author: Carson Bainbridge 
+format: html
+editor: visual
+---
+
+## I have learned how to successfully connect and create a github repo to Rstudio. 
